@@ -1,0 +1,21 @@
+  "deals": [
+    {
+      "id": 1,
+      "title": "milk",
+      "unit price": "6.50",
+      "shop name": "Shop Name",
+      "shop address": "123 Street, State, 12345"
+    },
+    {
+      "id": 2,
+      "title": "eggs",
+      "unit price": "12.00",
+      "shop name": "Another Shop Name",
+      "shop address": "56 Street, State, 23456"
+    }
+
+  ],
+  "profile": {
+    "name": "yash"
+  }
+}
